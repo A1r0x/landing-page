@@ -127,16 +127,16 @@ button {
     align-items: center;
     background-color: #E5E7EB;
     flex: auto;
-    height: 360px;
+    padding: 120px 160px;
 }
 
 .quote {
     font-size: 36px;
-    width: 803px;
     font-style: italic;
     font-weight: 100;
     color: #1F2937;
     text-wrap: wrap;
+    padding: 0px 160px;
 }
 
 .thor {
@@ -160,7 +160,7 @@ button {
     border-radius: 8px;
     margin: 64px;
     padding: 30px 64px;
-    width: 840px;
+    gap: 100px;
 }
 
 .action {
